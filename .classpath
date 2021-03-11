@@ -5,5 +5,6 @@
 	<classpathentry kind="lib" path="C:/Users/DELL/eclipse-workspace2/bibliotheque-project/src/entitiesJar.jar"/>
 	<classpathentry kind="lib" path="C:/Users/DELL/eclipse-workspace2/bibliotheque-project/src/iServiceDAOJar.jar"/>
 	<classpathentry kind="lib" path="C:/Users/DELL/Desktop/personal doc/ESPRIM/2eme/java/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/eclipse-workspace2/bibliotheque-project/src/businessJar.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
