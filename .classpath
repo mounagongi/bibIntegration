@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="src/entitiesJar.jar"/>
 	<classpathentry kind="lib" path="src/iServiceDAOJar.jar"/>
+	<classpathentry kind="lib" path="src/daoJar.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
