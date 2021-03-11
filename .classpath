@@ -6,5 +6,6 @@
 	<classpathentry kind="lib" path="src/iServiceDAOJar.jar"/>
 	<classpathentry kind="lib" path="src/businessJar.jar"/>
 	<classpathentry kind="lib" path="src/daoJar.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-java-5.1.40-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
